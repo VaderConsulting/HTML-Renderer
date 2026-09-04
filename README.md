@@ -22,6 +22,10 @@ VS 2010 C# working copy of HTML Renderer 1.4.4.0: a 100% managed .NET 2.0 librar
 
 Open `HtmlRenderer.sln` in Visual Studio.
 
+## Requirements
+
+- Visual Studio 2010, .NET Framework 2.0
+
 ## Attribution and provenance
 
 - **Assembly company:** Open source hosted on CodePlex
