@@ -8,5 +8,5 @@ This tree is **HTML Renderer** (CodePlex `htmlrenderer.codeplex.com`), not Vader
 - **Demo credit:** HTML highlighting in the demo app is credited to [Alun Evans / RTF Syntax Colouring](http://www.codeproject.com/KB/cs/RTFSyntaxColour.aspx)
 - **Upstream (historical):** http://htmlrenderer.codeplex.com/
 
-Do not treat this repository as Dave Robinson / VaderConsulting MIT-licensed original work.
+Do not treat this repository as Dave Robinson / Vader Consulting MIT-licensed original work.
 VaderConsulting/Dave Robinson did not author the third-party portions identified above.
